@@ -1,0 +1,8 @@
+#Excluimos el .venv de python y todo el pycache, los archivos .pyc, los archivos de log y los archivos de cache
+.venv
+__pycache__
+*.pyc
+*.log
+*.cache
+
+
